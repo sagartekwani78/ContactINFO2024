@@ -9,8 +9,8 @@ h1 {
 }
 
 img {
-    width: 50px; 
-    height: 50px;
+    width: 60px; 
+    height: 60px;
     border: 2px solid black;
     border-radius: 50%;
 }
@@ -31,6 +31,11 @@ img {
 .contact-links p {
     margin-top: 10px;
     font-size: 18px;
+}
+
+.resume-link {
+    text-align: center;
+    margin: 20px 0;
 }
 
 h2 {
@@ -55,8 +60,10 @@ a[href^="tel"] {
     }
 
     img {
-        width: 40px;
-        height: 40px;
+        width: 60px;
+        height: 60px;
+         border: 2px solid black;
+        border-radius: 50%;
     }
 
     .contact-links p {
